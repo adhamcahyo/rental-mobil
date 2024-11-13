@@ -1,0 +1,31 @@
+[
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "plate": "B1234POL",
+      "price": 1000000,
+      "imageUrl": "https://example.com/toyota-land-cruiser.jpg"
+    },
+    {
+      "brand": "Ford",
+      "model": "Explorer",
+      "plate": "B5678POL",
+      "price": 800000,
+      "imageUrl": "https://example.com/ford-explorer.jpg"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Pajero Sport",
+      "plate": "B91011POL",
+      "price": 900000,
+      "imageUrl": "https://example.com/mitsubishi-pajero.jpg"
+    },
+    {
+      "brand": "Isuzu",
+      "model": "D-Max",
+      "plate": "B1213POL",
+      "price": 850000,
+      "imageUrl": "https://example.com/isuzu-dmax.jpg"
+    }
+  ]
+  
